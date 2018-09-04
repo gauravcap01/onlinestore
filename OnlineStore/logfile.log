@@ -1,0 +1,62 @@
+2018-09-04 16:52:26,693 INFO  [Log] **************************************************************************************** 
+2018-09-04 16:52:26,694 INFO  [Log] **************************************************************************************** 
+2018-09-04 16:52:26,694 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_002       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-09-04 16:52:26,694 INFO  [Log] **************************************************************************************** 
+2018-09-04 16:52:26,694 INFO  [Log] **************************************************************************************** 
+2018-09-04 16:52:27,301 INFO  [Log] Excel sheet opened 
+2018-09-04 16:52:27,301 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-09-04 16:52:35,423 INFO  [Log] New driver instantiated 
+2018-09-04 16:52:35,461 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-09-04 16:52:38,713 INFO  [Log] Web application launched successfully 
+2018-09-04 16:52:38,742 INFO  [Log] My Account link is found on the Home Page 
+2018-09-04 16:52:44,316 INFO  [Log] Click action is perfromed on My Account link 
+2018-09-04 16:52:44,351 INFO  [Log] Username text box is found on the Login Page 
+2018-09-04 16:52:44,405 INFO  [Log] testuser_1 is entered in UserName text box 
+2018-09-04 16:52:44,419 INFO  [Log] Password text box is found on the Login page 
+2018-09-04 16:52:44,465 INFO  [Log] Test@123 is entered in Password text box 
+2018-09-04 16:52:44,497 INFO  [Log] Submit button is found on the Login page 
+2018-09-04 16:52:44,742 INFO  [Log] Click action is performed on Submit button 
+2018-09-04 16:53:04,786 ERROR [Log] Log Out link is not found on the Home Page 
+2018-09-04 16:53:05,143 ERROR [Log] Unable to locate element: #account_logout
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'DESKTOP-OQJ7KRA', ip: '192.168.1.129', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '10.0.2'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 5244, moz:profile: C:\Users\gaura\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 49011621-7704-4c4a-8657-c6207130baf3
+*** Element info: {Using=id, value=account_logout} 
+2018-09-04 16:53:05,146 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-09-04 16:53:05,146 INFO  [Log] X 
+2018-09-04 16:53:05,146 INFO  [Log] X 
+2018-09-04 16:53:05,146 INFO  [Log] X 
+2018-09-04 16:53:05,146 INFO  [Log] X 
+2018-09-04 16:53:05,996 INFO  [Log] **************************************************************************************** 
+2018-09-04 16:53:05,997 INFO  [Log] **************************************************************************************** 
+2018-09-04 16:53:05,997 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$                 Framework_001       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2018-09-04 16:53:05,997 INFO  [Log] **************************************************************************************** 
+2018-09-04 16:53:05,997 INFO  [Log] **************************************************************************************** 
+2018-09-04 16:53:06,039 INFO  [Log] Excel sheet opened 
+2018-09-04 16:53:06,039 INFO  [Log] Total number of Row used return as < 2 >. 
+2018-09-04 16:53:09,428 INFO  [Log] New driver instantiated 
+2018-09-04 16:53:09,453 INFO  [Log] Implicit wait applied on the driver for 10 seconds 
+2018-09-04 16:53:12,907 INFO  [Log] Web application launched successfully 
+2018-09-04 16:53:12,946 INFO  [Log] My Account link is found on the Home Page 
+2018-09-04 16:53:15,344 INFO  [Log] Click action is perfromed on My Account link 
+2018-09-04 16:53:15,364 INFO  [Log] Username text box is found on the Login Page 
+2018-09-04 16:53:15,420 INFO  [Log] testuser_1 is entered in UserName text box 
+2018-09-04 16:53:15,440 INFO  [Log] Password text box is found on the Login page 
+2018-09-04 16:53:15,484 INFO  [Log] Test@123 is entered in Password text box 
+2018-09-04 16:53:15,511 INFO  [Log] Submit button is found on the Login page 
+2018-09-04 16:53:15,776 INFO  [Log] Click action is performed on Submit button 
+2018-09-04 16:53:17,855 ERROR [Log] Log Out link is not found on the Home Page 
+2018-09-04 16:53:18,460 ERROR [Log] Class Utils | Method takeScreenshot | Exception occured while capturing ScreenShot : Failed to decode response from marionette
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:24:21.231Z'
+System info: host: 'DESKTOP-OQJ7KRA', ip: '192.168.1.129', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '10.0.2'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 61.0.1, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 41740, moz:profile: C:\Users\gaura\AppData\Loca..., moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: fd31108e-d194-4c09-93b3-fd93d961c4f1 
+2018-09-04 16:53:18,461 INFO  [Log] XXXXXXXXXXXXXXXXXXXXXXX             -E---N---D-             XXXXXXXXXXXXXXXXXXXXXX 
+2018-09-04 16:53:18,461 INFO  [Log] X 
+2018-09-04 16:53:18,461 INFO  [Log] X 
+2018-09-04 16:53:18,461 INFO  [Log] X 
+2018-09-04 16:53:18,461 INFO  [Log] X 
